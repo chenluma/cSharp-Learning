@@ -1,0 +1,11 @@
+F:\task\task\day\bin\Debug\day.exe.config
+F:\task\task\day\bin\Debug\day.exe
+F:\task\task\day\bin\Debug\day.pdb
+F:\task\task\day\bin\Debug\Day9.exe
+F:\task\task\day\bin\Debug\Day9.pdb
+F:\task\task\day\bin\Debug\Day9.exe.config
+F:\task\task\day\obj\Debug\day10.csprojAssemblyReference.cache
+F:\task\task\day\obj\Debug\day10.csproj.CoreCompileInputs.cache
+F:\task\task\day\obj\Debug\day10.csproj.CopyComplete
+F:\task\task\day\obj\Debug\day.exe
+F:\task\task\day\obj\Debug\day.pdb
